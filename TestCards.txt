@@ -1,0 +1,14 @@
+﻿Dankort
+Kortnummer: 4444 4444 4444 4000
+Udløbsdato: 12 19 (mm / åå)
+CVC / kontrolcifre: 123
+
+VISA
+Kortnummer: 3333 3333 3333 3000
+Udløbsdato: 12 19 (mm / åå)
+CVC / kontrolcifre: 123
+
+MasterCard
+Kortnummer: 5555 5555 5555 5000
+Udløbsdato: 12 19 (mm / åå)
+CVC / kontrolcifre: 123
